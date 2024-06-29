@@ -1,0 +1,8 @@
+fName,lName,sex,pAge,mobile,address,type,left?,reasonForLeaving
+Seetoda,Gamage,M,28,0774185595,spec1,N,NA
+Chanuth,Maduka,M,30,0775434543,spec2,Y,Go to the another country.
+Kalana,Kumara,M,45,0756654545,spec3,N,NA
+Seetoda,Gamage,M,25,0775434345,childspec,N,NA
+Chanuth,Maduka,M,54,0775454343,parentspec,Y,Leave country
+Chanuth,Maduka,M,25,0774185565,spec1,Y,not recommeddd
+Chanuth2,Maduka,M,26,077545454,spec1,N,NA

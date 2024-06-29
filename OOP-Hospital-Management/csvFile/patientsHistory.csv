@@ -1,0 +1,6 @@
+firstName,lastName,sex,age,mobile,height,weight,wasHospitalized?,stillAlive(ifHospitalized)?,discharged(ifHospitalized)?
+Chanuka,Silva,M,45,0774543334,160,50,Y,Y,Y
+Patient1,kumara,F,35,0775434545,90,30,Y,Y,N
+Maduka,Kumara,M,35,0756545454,150,56,Y,Y,Y
+Nayani,Kalhari,F,45,0755565456,68,28,N,Y,N
+Maduka,Kumara,M,27,0776545454,26,45,Y,Y,N

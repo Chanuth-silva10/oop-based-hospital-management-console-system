@@ -1,0 +1,1 @@
+patientId,firstName,lastName,gender,age,mobile,height,weight,wasHospitalized?,stillAlive(ifHospitalized)?

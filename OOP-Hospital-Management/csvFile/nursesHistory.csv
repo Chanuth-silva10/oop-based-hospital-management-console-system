@@ -1,0 +1,6 @@
+firstName,lastName,gender,age,mobNumber,type,left?,reasonForLeaving(ifLeft)
+Nayani,Kumari,F,28,0775434345,childspec,N,NA
+Ahinsa,Netsarani,F,29,0774524545,oldspec,N,NA
+Nayani,Kalpani,F,27,0756565454,childspec,N,NA
+Kumari,Gamage,F,34,0755656565,oldspec,Y,Go to another hospital.
+chanudi,peshala,F,27,088664434,type1,Y,hhffgfgfhf
