@@ -63,3 +63,6 @@ Inherits from the Person class and adds specific attributes and methods for pati
 
 ## Appointment Class
 Manages appointments and interacts with both Doctor and Patient classes.
+
+### Class Diagram
+![class-diagram drawio](https://github.com/Chanuth-silva10/new01/assets/80547770/2bedd687-60f6-4311-ae37-2f1888269be8)
